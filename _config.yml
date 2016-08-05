@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Sean Orfila
+tagline:          'Interwebz Extraordiarre'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://seandogg.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Sean Orfila'
   url:            https://twitter.com/seanSince82
 
 paginate:         5
