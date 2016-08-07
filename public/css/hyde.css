@@ -84,8 +84,8 @@ html {
 }
 
 .sidebar-about.lead {
-  color: #fff;
-  font-size: 12px;
+  color: #fff !important;
+  font-size: 12px !important;
 }
 
 
